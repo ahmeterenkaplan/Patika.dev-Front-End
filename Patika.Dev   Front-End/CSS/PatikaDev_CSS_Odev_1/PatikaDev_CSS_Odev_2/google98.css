@@ -1,0 +1,79 @@
+body{
+    margin: 0;
+    padding: 0; 
+    margin-right: auto;
+    margin-left: auto;
+}
+.orta{
+     margin-left: auto;
+    margin-right: auto;
+    width: 33%;
+}
+.icon{
+    margin-left: auto;
+    margin-right: auto;
+    width: 23%;
+
+}
+.nav{
+    width: 863px;
+    height: 120px;
+    background-color: rgb(175, 175, 175)
+    
+
+}
+.box{width: 303px;
+    height: 22px;
+    background-color: white;
+    border-style:ridge;
+
+}
+.fsize{
+    font-size: 17px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.buttons1{
+    width: 110px;
+    height: 22px;
+    background-color: white;
+    border-style:ridge;
+    margin-left: 32%;
+    margin-right: auto;
+    float: left;
+    
+}
+.buttons2{
+    width: 130px;
+    height: 22px;
+    background-color: white;
+    float: left;
+    border-style:ridge;
+    margin-left: 60px;
+}
+.box1{width: 300px;
+    height: 100px;
+    background-color:#70CCC2 ;
+    margin-left: 22%;
+}
+
+.box2{width: 250px;
+    height: 100px;
+    background-color:#70CCC2 ;
+    margin-left: 3px;
+}
+.box3{width: 305px;
+    height: 100px;
+    background-color:#70CCC2 ;
+    margin-left: 3px;
+    margin-top: 14px;
+}
+.buttons3{
+    width: 160px;
+    height: 22px;
+    background-color: white;
+    float:left;
+    border-style:ridge;
+}
+.foot{
+    margin-left:43% ;
+}
